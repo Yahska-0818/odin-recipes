@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    font-family: "Playwrite AU SA", cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    margin-top: 200px;
+}
+
+li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+.halwa-link {
+    display: block;
+}
+
+.halwa-img {
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.quesadilla-link {
+    display: block;
+}
+
+.quesadilla-img {
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.poutine-link {
+    display: block;
+}
+
+.poutine-img {
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+}
